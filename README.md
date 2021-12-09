@@ -1,27 +1,25 @@
 # Know_Your_Institute
 
-This bot project was created using the Empty Bot template, and contains a minimal set of files necessary to have a working bot.
+This Q&A bot project was created using the Empty Bot template, and contains a minimal set of files necessary to have a working bot.
+It is done to bridge the gap between students and their respective institutes during this online education. It answers to some of the most frequently asked questions related to academics or opportunities available in their institute. 
 
-## Next steps
+## Problem Statement:
+Lately due to complete online mode of education, there is a gap generated 
+between the students and the institute by which i mean the opportunities students could recieve 
+in the their institute.This project helps the new joining or the existing students to get to 
+know their institute more closely and to ask frequent doubts about academics and placement in their
+institute. This project bridges the gap and helps to answer few frequently asked questions on the 
+behalf of their institute.
 
-### Start building your bot
+## Project Description:
 
-Composer can help guide you through getting started building your bot. From your bot settings page (the wrench icon on the left navigation rail), click on the rocket-ship icon on the top right for some quick navigation links.
+During this Covid-19 pandemic, many students of different institutes are confined to their houses 
+and completing their academics in online mode. This brings a lot of doubts regarding academics, opportunities 
+in the campus and placements. Replying to these queries through email takes lot of time and effort 
+from the concerned people. This bot will react to the some of the frequently asked queries 
+interactively thereby reducing waiting time for students and efforts by concerned people. 
+This bot is trained with some frequent questions and answers and  also with LUIS that gives 
+more accurate replies to the queries. Students will definitely feel connected to thier institute and
+also getting their doubts cleared, they could achieve more planned career during thier stay back in 
+thier institute.
 
-Another great resource if you're just getting started is the **[guided tutorial](https://docs.microsoft.com/en-us/composer/tutorial/tutorial-introduction)** in our documentation.
-
-### Connect with your users
-
-Your bot comes pre-configured to connect to our Web Chat and DirectLine channels, but there are many more places you can connect your bot to - including Microsoft Teams, Telephony, DirectLine Speech, Slack, Facebook, Outlook and more. Check out all of the places you can connect to on the bot settings page.
-
-### Publish your bot to Azure from Composer
-
-Composer can help you provision the Azure resources necessary for your bot, and publish your bot to them. To get started, create a publishing profile from your bot settings page in Composer (the wrench icon on the left navigation rail). Make sure you only provision the optional Azure resources you need!
-
-### Extend your bot with packages
-
-From Package Manager in Composer you can find useful packages to help add additional pre-built functionality you can add to your bot - everything from simple dialogs & custom actions for working with specific scenarios to custom adapters for connecting your bot to users on clients like Facebook or Slack.
-
-### Extend your bot with code
-
-You can also extend your bot with code - simply open up the folder that was generated for you in the location you chose during the creation process with your favorite IDE (like Visual Studio). You can do things like create custom actions that can be used during dialog flows, create custom middleware to pre-process (or post-process) messages, and more. See [our documentation](https://aka.ms/bf-extend-with-code) for more information.
